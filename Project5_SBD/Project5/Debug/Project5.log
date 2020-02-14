@@ -1,0 +1,56 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(440,5): warning MSB8003: The VCToolsInstallDir property is not defined. Some build tools may not be found.
+cl : command line warning D9002: ignoring unknown option '/diagnostics:column'
+  AABB.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  AsciiParser.cpp
+d:\project2019\project5_sbd\project5\include\asciiparser.h(5): fatal error C1083: Cannot open include file: 'string': No such file or directory
+  CollisionHandler.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  CollisionSphere.cpp
+  CollisionSystem.cpp
+  Constraint.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  ConstraintLibrary.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  DynamicalState.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  ExplicitDynamics.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  Force.cpp
+  GISolver.cpp
+d:\project2019\project5_sbd\project5\include\gisolver.h(16): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  LinearAlgebra.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\windows.h(167): fatal error C1083: Cannot open include file: 'excpt.h': No such file or directory
+  Matrix.cpp
+d:\project2019\project5_sbd\project5\cpp\matrix.cpp(10): fatal error C1083: Cannot open include file: 'iostream': No such file or directory
+  Mymethods.cpp
+d:\project2019\project5_sbd\project5\include\mymethods.h(3): fatal error C1083: Cannot open include file: 'iostream': No such file or directory
+  ObjParser.cpp
+d:\project2019\project5_sbd\project5\include\objparser.h(5): fatal error C1083: Cannot open include file: 'string': No such file or directory
+  OccupancyVolume.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  PbaThing.cpp
+d:\project2019\project5_sbd\project5\include\pbathing.h(17): fatal error C1083: Cannot open include file: 'string': No such file or directory
+  PbaViewer.cpp
+d:\project2019\project5_sbd\project5\cpp\pbaviewer.cpp(22): fatal error C1083: Cannot open include file: 'iostream': No such file or directory
+  RBDSolver.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  Generating Code...
+  Compiling...
+  RigidBodyState.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  SBDSolver.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  SoftBodyState.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  SoftEdge.cpp
+d:\project2019\project5_sbd\project5\include\softedge.h(17): fatal error C1083: Cannot open include file: 'memory': No such file or directory
+  SPHForce.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  SPHSolver.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  SPHState.cpp
+d:\project2019\project5_sbd\project5\include\vector.h(15): fatal error C1083: Cannot open include file: 'cmath': No such file or directory
+  Generating Code...

@@ -1,0 +1,101 @@
+﻿  CollisionHandler.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\Color.h(134): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\CollisionTriangle.h(42): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project1\project1\CollisionTriangle.h(43): warning C4305: “参数”: 从“double”到“const float”截断
+CollisionHandler.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+  CollisionSphere.cpp
+  CollisionSurface.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\Color.h(134): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\CollisionTriangle.h(42): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project1\project1\CollisionTriangle.h(43): warning C4305: “参数”: 从“double”到“const float”截断
+CollisionSurface.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+  CollisionSystem.cpp
+  CollisionTriangle.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\Color.h(134): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\CollisionTriangle.h(42): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project1\project1\CollisionTriangle.h(43): warning C4305: “参数”: 从“double”到“const float”截断
+  DynamicalState.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\Color.h(134): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  ExplicitDynamics.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\Color.h(134): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\CollisionTriangle.h(42): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project1\project1\CollisionTriangle.h(43): warning C4305: “参数”: 从“double”到“const float”截断
+  Force.cpp
+  ForceLibrary.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\Color.h(134): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+ForceLibrary.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
+  GISolver.cpp
+  LinearAlgebra.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  main.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\Color.h(134): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project1\project1\RotatingCube.h(123): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\RotatingCube.h(125): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\RotatingCube.h(128): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\RotatingCube.h(130): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\RotatingCube.h(133): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\RotatingCube.h(135): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\RotatingCube.h(138): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\RotatingCube.h(140): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\CollisionTriangle.h(42): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project1\project1\CollisionTriangle.h(43): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project1\project1\BouncingBalls.h(313): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(314): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(317): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(318): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(321): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(322): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(333): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(475): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(478): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(509): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\project2019\project1\project1\BouncingBalls.h(512): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  Matrix.cpp
+d:\project2019\project1\project1\Vector.h(148): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  myMethod.cpp
+  PbaThing.cpp
+  PbaViewer.cpp
+PbaViewer.cpp(111): warning C4305: “初始化”: 从“double”到“float”截断
+PbaViewer.cpp(124): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+PbaViewer.cpp(131): warning C4305: “参数”: 从“double”到“GLclampf”截断
+PbaViewer.cpp(226): warning C4305: “/=”: 从“double”到“float”截断
+PbaViewer.cpp(229): warning C4305: “*=”: 从“double”到“float”截断
+PbaViewer.cpp(234): warning C4305: “参数”: 从“double”到“float”截断
+PbaViewer.cpp(238): warning C4305: “参数”: 从“double”到“float”截断
+PbaViewer.cpp(257): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+PbaViewer.cpp(258): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+PbaViewer.cpp(266): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+PbaViewer.cpp(337): warning C4305: “=”: 从“double”到“float”截断
+PbaViewer.cpp(378): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+PbaViewer.cpp(379): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+PbaViewer.cpp(394): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+PbaViewer.cpp(402): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+PbaViewer.cpp(408): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+PbaViewer.cpp(409): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+PbaViewer.cpp(414): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+PbaViewer.cpp(415): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+PbaViewer.cpp(416): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据

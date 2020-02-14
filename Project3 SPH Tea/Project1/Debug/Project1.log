@@ -1,0 +1,74 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(BouncingBall_asg1_new.vcxproj, Project1.vcxproj, Project2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  AABB.cpp
+d:\project2019\project3 sph tea\project1\include\vector.h(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  正在生成代码...
+  正在编译...
+  OccupancyVolume.cpp
+d:\project2019\project3 sph tea\project1\include\vector.h(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project3 sph tea\project1\include\color.h(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  正在生成代码...
+  正在编译...
+  CollisionHandler.cpp
+d:\project2019\project3 sph tea\project1\include\vector.h(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project3 sph tea\project1\include\color.h(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project3 sph tea\project1\include\collisiontriangle.h(42): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project3 sph tea\project1\include\collisiontriangle.h(43): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project3 sph tea\project1\cpp\collisionhandler.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在编译...
+  CollisionTriangle.cpp
+d:\project2019\project3 sph tea\project1\include\vector.h(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project3 sph tea\project1\include\color.h(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project3 sph tea\project1\include\collisiontriangle.h(42): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project3 sph tea\project1\include\collisiontriangle.h(43): warning C4305: “参数”: 从“double”到“const float”截断
+  正在生成代码...
+  正在编译...
+  main.cpp
+d:\project2019\project3 sph tea\project1\include\vector.h(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project3 sph tea\project1\include\color.h(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\project2019\project3 sph tea\project1\include\collisiontriangle.h(42): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project3 sph tea\project1\include\collisiontriangle.h(43): warning C4305: “参数”: 从“double”到“const float”截断
+d:\project2019\project3 sph tea\project1\include\sphforce.h(62): warning C4305: “初始化”: 从“double”到“float”截断
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(102): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(130): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(136): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(142): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(148): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(154): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(160): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(166): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(172): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(178): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(184): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(190): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(196): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(201): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(206): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(212): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(218): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(224): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(230): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\project2019\project3 sph tea\project1\include\sphinateapot.h(307): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  SPHState.cpp
+  SPHForce.cpp
+  SPHSolver.cpp
+  PbaViewer.cpp
+  PbaUtils.cpp
+  PbaThing.cpp
+  ObjParser.cpp
+  Mymethods.cpp
+  ForceLibrary.cpp
+  ExplicitDynamics.cpp
+  CollisionSurface.cpp
+  Project1.vcxproj -> D:\project2019\Project3 SPH Tea\Debug\Project3.exe

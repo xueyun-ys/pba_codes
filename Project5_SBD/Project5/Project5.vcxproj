@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\AABB.h" />
+    <ClInclude Include="include\AsciiParser.h" />
+    <ClInclude Include="include\BasicBoid.h" />
+    <ClInclude Include="include\BouncingBalls.h" />
+    <ClInclude Include="include\BouncingRBD.h" />
+    <ClInclude Include="include\CollisionHandler.h" />
+    <ClInclude Include="include\CollisionSphere.h" />
+    <ClInclude Include="include\CollisionSurface.h" />
+    <ClInclude Include="include\CollisionSystem.h" />
+    <ClInclude Include="include\CollisionTriangle.h" />
+    <ClInclude Include="include\Color.h" />
+    <ClInclude Include="include\Constraint.h" />
+    <ClInclude Include="include\ConstraintLibrary.h" />
+    <ClInclude Include="include\DynamicalState.h" />
+    <ClInclude Include="include\ExplicitDynamics.h" />
+    <ClInclude Include="include\Force.h" />
+    <ClInclude Include="include\ForceLibrary.h" />
+    <ClInclude Include="include\GISolver.h" />
+    <ClInclude Include="include\LinearAlgebra.h" />
+    <ClInclude Include="include\Matrix.h" />
+    <ClInclude Include="include\Mymethods.h" />
+    <ClInclude Include="include\ObjParser.h" />
+    <ClInclude Include="include\OccupancyVolume.h" />
+    <ClInclude Include="include\ParticleEmitter.h" />
+    <ClInclude Include="include\ParticleOnASphere.h" />
+    <ClInclude Include="include\PbaThing.h" />
+    <ClInclude Include="include\PbaViewer.h" />
+    <ClInclude Include="include\RBDSolver.h" />
+    <ClInclude Include="include\RigidBodyState.h" />
+    <ClInclude Include="include\RotatingCube.h" />
+    <ClInclude Include="include\SBDAreaCloth.h" />
+    <ClInclude Include="include\SBDSolver.h" />
+    <ClInclude Include="include\SoftBodyState.h" />
+    <ClInclude Include="include\SoftEdge.h" />
+    <ClInclude Include="include\SPHForce.h" />
+    <ClInclude Include="include\SphInATeapot.h" />
+    <ClInclude Include="include\SPHSolver.h" />
+    <ClInclude Include="include\SPHState.h" />
+    <ClInclude Include="include\Torque.h" />
+    <ClInclude Include="include\TorqueLibrary.h" />
+    <ClInclude Include="include\Vector.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cpp\AABB.cpp" />
+    <ClCompile Include="cpp\AsciiParser.cpp" />
+    <ClCompile Include="cpp\CollisionHandler.cpp" />
+    <ClCompile Include="cpp\CollisionSphere.cpp" />
+    <ClCompile Include="cpp\CollisionSurface.cpp" />
+    <ClCompile Include="cpp\CollisionSystem.cpp" />
+    <ClCompile Include="cpp\CollisionTriangle.cpp" />
+    <ClCompile Include="cpp\Constraint.cpp" />
+    <ClCompile Include="cpp\ConstraintLibrary.cpp" />
+    <ClCompile Include="cpp\DynamicalState.cpp" />
+    <ClCompile Include="cpp\ExplicitDynamics.cpp" />
+    <ClCompile Include="cpp\Force.cpp" />
+    <ClCompile Include="cpp\ForceLibrary.cpp" />
+    <ClCompile Include="cpp\GISolver.cpp" />
+    <ClCompile Include="cpp\LinearAlgebra.cpp" />
+    <ClCompile Include="cpp\main.cpp" />
+    <ClCompile Include="cpp\Matrix.cpp" />
+    <ClCompile Include="cpp\Mymethods.cpp" />
+    <ClCompile Include="cpp\ObjParser.cpp" />
+    <ClCompile Include="cpp\OccupancyVolume.cpp" />
+    <ClCompile Include="cpp\PbaThing.cpp" />
+    <ClCompile Include="cpp\PbaViewer.cpp" />
+    <ClCompile Include="cpp\RBDSolver.cpp" />
+    <ClCompile Include="cpp\RigidBodyState.cpp" />
+    <ClCompile Include="cpp\SBDSolver.cpp" />
+    <ClCompile Include="cpp\SoftBodyState.cpp" />
+    <ClCompile Include="cpp\SoftEdge.cpp" />
+    <ClCompile Include="cpp\SPHForce.cpp" />
+    <ClCompile Include="cpp\SPHSolver.cpp" />
+    <ClCompile Include="cpp\SPHState.cpp" />
+    <ClCompile Include="cpp\Torque.cpp" />
+    <ClCompile Include="cpp\TorqueLibrary.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{FCBC88A0-61C9-48B8-BD65-88F1C6F934E2}</ProjectGuid>
+    <RootNamespace>Project5</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ReferencePath>$(ReferencePath)</ReferencePath>
+    <IncludePath>D:\project2019\Project5_SBD\Project5\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>D:\project2019\Project5_SBD\Project5\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalOptions>/SAFESEH:NO %(AdditionalOptions)</AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

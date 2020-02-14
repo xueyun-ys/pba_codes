@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cpp\CollisionSurface.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\CollisionSystem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\CollisionTriangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\ConstraintLibrary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\DynamicalState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\ExplicitDynamics.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\Force.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\ForceLibrary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\GISolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\LinearAlgebra.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\Matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\CollisionHandler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\CollisionSphere.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\PbaThing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\PbaViewer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\Constraint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\PbaUtils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\Mymethods.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\SPHForce.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\SPHState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\SPHSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\OccupancyVolume.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\AABB.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\ObjParser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\AsciiParser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\CollisionHandler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CollisionSphere.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CollisionSurface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CollisionSystem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\CollisionTriangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Color.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Constraint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ConstraintLibrary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DynamicalState.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ExplicitDynamics.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Force.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ForceLibrary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\GISolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LinearAlgebra.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Matrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PbaThing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PbaViewer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RotatingCube.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Vector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ParticleOnASphere.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ParticleEmitter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Mymethods.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\BasicBoid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SPHForce.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SphInATeapot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SPHState.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SPHSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\OccupancyVolume.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AABB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ObjParser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AsciiParser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
